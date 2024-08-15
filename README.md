@@ -1,5 +1,5 @@
-# Q1 Synth
-Welcome to the innovative world of the Q1 Synth, a cutting-edge software synthesizer that taps into the principles of quantum mechanics to revolutionise your approach to sound design. With the Q1 Synth, you'll explore new ways of composing music that you never thought possible, thanks to its quantum-inspired algorithms. Craft intricate patches between qubits and instruments, design circuits to combine your qubits, and hear the mesmerising results as your quantum systems collapse. Whether you're composing solo or entangling qubits with musicians worldwide, prepare for a truly unique collaborative experience.
+# Actias
+Welcome to the innovative world of the Actias, a cutting-edge software synthesizer that taps into the principles of quantum mechanics to revolutionise your approach to sound design. With Actias, you'll explore new ways of composing music that you never thought possible, thanks to its quantum-inspired algorithms. Craft intricate patches between qubits and instruments, design circuits to combine your qubits, and hear the mesmerising results as your quantum systems collapse. Whether you're composing solo or entangling qubits with musicians worldwide, prepare for a truly unique collaborative experience.
 
 ## Installation
 Head to [Releases](https://github.com/lunar-build/q1synth-app/releases) and download the correct asset for your platform. 
