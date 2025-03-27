@@ -1,5 +1,5 @@
 # Actias
-Welcome to the innovative world of the Actias, a cutting-edge software synthesizer that taps into the principles of quantum mechanics to revolutionise your approach to sound design. With Actias, you'll explore new ways of composing music that you never thought possible, thanks to its quantum-inspired algorithms. Craft intricate patches between qubits and instruments, design circuits to combine your qubits, and hear the mesmerising results as your quantum systems collapse. Whether you're composing solo or entangling qubits with musicians worldwide, prepare for a truly unique collaborative experience.
+Welcome to the innovative world of the Actias, a software synthesizer that taps into the science of quantum computers to transform your approach to sound design. With Actias, you'll explore new ways of composing music, thanks to its quantum-inspired algorithms. Craft intricate patches between qubits and instruments, design circuits to combine your qubits, and hear the results as your quantum systems collapse.
 
 ## Installation
 Head to [Releases](https://github.com/lunar-build/q1synth-app/releases) and download the correct asset for your platform. 
